@@ -4,9 +4,9 @@ sidebar_position: 1
 title: 欢迎
 ---
 
-# 🎮 Squid Game
+# 🎮 游戏
 
-游戏攻略与小工具，Squid 3G 的游戏板块。
+游戏攻略与小工具，Squid Wiki 的游戏板块。
 
 ## 正在写
 

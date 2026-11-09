@@ -1,4 +1,4 @@
-# 🎮 Squid Game · 游戏
+# 🎮 Squid Wiki · 游戏
 
 > [game.squid.wiki](https://game.squid.wiki) —— 游戏攻略与工具。第一波：宝可梦火红；以后 Dota、冒险岛。
 
