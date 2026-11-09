@@ -49,9 +49,9 @@ const config: Config = {
         {
           title: 'Squid 3G',
           items: [
-            {label: 'Grid · 能源', href: 'https://grid.squid.wiki'},
+            {label: 'Grid · 能源', href: 'https://energy.squid.wiki'},
             {label: 'Game · 游戏', href: 'https://game.squid.wiki'},
-            {label: 'Gain · 理财', href: 'https://gain.squid.wiki'},
+            {label: 'Gain · 理财', href: 'https://finance.squid.wiki'},
           ],
         },
       ],
