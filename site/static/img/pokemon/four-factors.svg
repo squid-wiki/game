@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 470" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="种族值、个体值、努力值、性格和等级一起决定能力值">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6b7280"/></marker>
+  </defs>
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .s{font-size:13px;fill:#6b7280}
+    .t{font-size:14.5px;font-weight:600;fill:#111827;text-anchor:middle}
+    .m{font-size:14px;fill:#374151;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .n{font-family:Consolas,Menlo,monospace;font-size:14px;fill:#374151}
+    .ar{stroke:#6b7280;stroke-width:2;fill:none;marker-end:url(#a)}
+    
+  </style>
+  <rect x="1" y="1" width="938" height="468" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="38">能力值由四个因素加等级决定</text>
+  <rect x="30" y="64" width="470" height="80" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="90" y="100" style="fill:#2563eb;font-size:17px">种族值</text><text class="c" x="90" y="122">物种的天赋</text>
+  <text class="l" x="160" y="94">由种类决定，同种都一样</text><text class="l" x="160" y="118">每项 1–255</text><text class="s" x="160" y="136">不能改</text>
+  <path class="ar" d="M500 104 C 560 104, 560 236, 610 236"/>
+  <rect x="30" y="156" width="470" height="80" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text class="t" x="90" y="192" style="fill:#15803d;font-size:17px">个体值</text><text class="c" x="90" y="214">这一只的天赋</text>
+  <text class="l" x="160" y="186">遇到时随机</text><text class="l" x="160" y="210">每项 0–31</text><text class="s" x="160" y="228">七代起可"按 31 算"</text>
+  <path class="ar" d="M500 196 C 560 196, 560 236, 610 236"/>
+  <rect x="30" y="248" width="470" height="80" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text class="t" x="90" y="284" style="fill:#b45309;font-size:17px">努力值</text><text class="c" x="90" y="306">后天训练</text>
+  <text class="l" x="160" y="278">打倒宝可梦积累</text><text class="l" x="160" y="302">每项 ≤252，合计 ≤510</text><text class="s" x="160" y="320">随时可练、可洗</text>
+  <path class="ar" d="M500 288 C 560 288, 560 236, 610 236"/>
+  <rect x="30" y="340" width="470" height="80" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <text class="t" x="90" y="376" style="fill:#7c3aed;font-size:17px">性格</text><text class="c" x="90" y="398">偏科</text>
+  <text class="l" x="160" y="370">遇到时随机</text><text class="l" x="160" y="394">一项 ×1.1，一项 ×0.9</text><text class="s" x="160" y="412">八代起薄荷可改</text>
+  <path class="ar" d="M500 380 C 560 380, 560 236, 610 236"/>
+  <rect x="612" y="186" width="150" height="100" rx="10" fill="#f9fafb" stroke="#6b7280" stroke-width="1.5"/>
+  <text class="t" x="687" y="230">公式</text><text class="c" x="687" y="254">（见正文）</text>
+  <rect x="612" y="340" width="150" height="50" rx="10" fill="#f9fafb" stroke="#6b7280" stroke-width="1.5"/><text class="t" x="687" y="371">等级</text>
+  <path class="ar" d="M687 340 L687 290"/>
+  <path class="ar" d="M762 236 L800 236"/>
+  <rect x="802" y="196" width="112" height="80" rx="10" fill="#111827"/><text class="t" x="858" y="232" style="fill:#ffffff">能力值</text><text class="c" x="858" y="256" style="fill:#d1d5db">游戏里看到的数</text>
+</svg>

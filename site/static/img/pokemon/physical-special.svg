@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 440" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="物理与特殊分类：第一到三世代按属性，第四世代起按招式">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6b7280"/></marker>
+  </defs>
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .s{font-size:13px;fill:#6b7280}
+    .t{font-size:14.5px;font-weight:600;fill:#111827;text-anchor:middle}
+    .m{font-size:14px;fill:#374151;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .n{font-family:Consolas,Menlo,monospace;font-size:14px;fill:#374151}
+    .ar{stroke:#6b7280;stroke-width:2;fill:none;marker-end:url(#a)}
+    
+  </style>
+  <rect x="1" y="1" width="938" height="438" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="235" y="40">第 1–3 世代：看属性</text><text class="c" x="235" y="62">招式是什么属性，就决定了物理还是特殊</text>
+  <text class="h" x="705" y="40">第 4 世代起：看招式</text><text class="c" x="705" y="62">每个招式单独标注</text>
+  <line x1="470" y1="30" x2="470" y2="410" stroke="#e5e7eb" stroke-width="2"/>
+  <rect x="30" y="82" width="200" height="230" rx="10" fill="#ffedd5" stroke="#c2410c" stroke-width="1.5"/>
+  <rect x="250" y="82" width="200" height="230" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="130" y="108" style="fill:#c2410c">物理</text><text class="t" x="350" y="108" style="fill:#2563eb">特殊</text>
+  <rect x="40" y="124" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="80" y="142">一般</text>
+  <rect x="130" y="124" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="170" y="142">格斗</text>
+  <rect x="40" y="160" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="80" y="178">飞行</text>
+  <rect x="130" y="160" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="170" y="178">毒</text>
+  <rect x="40" y="196" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="80" y="214">地面</text>
+  <rect x="130" y="196" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="170" y="214">岩石</text>
+  <rect x="40" y="232" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="80" y="250">虫</text>
+  <rect x="130" y="232" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="170" y="250">幽灵</text>
+  <rect x="40" y="268" width="80" height="26" rx="13" fill="#ffffff" stroke="#c2410c"/><text class="m" x="80" y="286">钢</text>
+  <rect x="260" y="124" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="300" y="142">火</text>
+  <rect x="350" y="124" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="390" y="142">水</text>
+  <rect x="260" y="160" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="300" y="178">草</text>
+  <rect x="350" y="160" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="390" y="178">电</text>
+  <rect x="260" y="196" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="300" y="214">超能力</text>
+  <rect x="350" y="196" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="390" y="214">冰</text>
+  <rect x="260" y="232" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="300" y="250">龙</text>
+  <rect x="350" y="232" width="80" height="26" rx="13" fill="#ffffff" stroke="#2563eb"/><text class="m" x="390" y="250">恶</text>
+  <rect x="30" y="330" width="420" height="70" rx="10" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.5"/>
+  <text class="m" x="240" y="358">反直觉的例子：咬碎（恶）明明是"咬"，却算特殊</text><text class="m" x="240" y="384">暗影球（幽灵）明明是"球"，却算物理</text>
+  <rect x="500" y="100" width="410" height="64" rx="10" fill="#ffedd5" stroke="#c2410c" stroke-width="1.5"/>
+  <text class="t" x="590" y="139">火焰拳</text><text class="m" x="720" y="139">火属性</text><rect x="790" y="118" width="96" height="28" rx="14" fill="#ffffff" stroke="#c2410c"/><text class="t" x="838" y="138" style="fill:#c2410c">物理</text>
+  <rect x="500" y="184" width="410" height="64" rx="10" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="590" y="223">喷射火焰</text><text class="m" x="720" y="223">火属性</text><rect x="790" y="202" width="96" height="28" rx="14" fill="#ffffff" stroke="#2563eb"/><text class="t" x="838" y="222" style="fill:#2563eb">特殊</text>
+  <text class="m" x="705" y="292">同是火属性，一个用攻击算，一个用特攻算</text>
+  <rect x="500" y="330" width="410" height="70" rx="10" fill="#dcfce7" stroke="#15803d" stroke-width="1.5"/>
+  <text class="m" x="705" y="358">结果：攻击高的宝可梦也能用好</text><text class="m" x="705" y="384">火、水、电等属性的招式了</text>
+</svg>

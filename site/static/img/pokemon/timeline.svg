@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 608" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="宝可梦十个世代的时间线：年份、主机、地区、新增数量与主要新机制">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6b7280"/></marker>
+  </defs>
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .s{font-size:13px;fill:#6b7280}
+    .t{font-size:14.5px;font-weight:600;fill:#111827;text-anchor:middle}
+    .m{font-size:14px;fill:#374151;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .n{font-family:Consolas,Menlo,monospace;font-size:14px;fill:#374151}
+    .ar{stroke:#6b7280;stroke-width:2;fill:none;marker-end:url(#a)}
+    
+  </style>
+  <rect x="1" y="1" width="978" height="606" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="490" y="38">宝可梦主系列的世代</text>
+  <text class="c" x="70" y="72">世代</text><text class="c" x="160" y="72">年份</text><text class="c" x="245" y="72">主机</text><text class="c" x="330" y="72">地区</text><text class="s" x="390" y="72">新增宝可梦</text><text class="s" x="610" y="72">最重要的新机制</text>
+  <rect x="16" y="92" width="948" height="46" fill="#f9fafb"/>
+  <rect x="28" y="100" width="84" height="30" rx="15" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text class="t" x="70" y="120" fill="#6b7280" style="fill:#6b7280">第 1 代</text>
+  <text class="m" x="160" y="120">1996</text><text class="m" x="245" y="120">GB</text><text class="m" x="330" y="120">关都</text>
+  <rect x="390" y="106" width="91" height="18" rx="3" fill="#6b7280" opacity="0.85"/>
+  <text class="n" x="489" y="120">151</text><text class="s" x="523" y="120">(151)</text>
+  <text class="l" x="610" y="120">15 种属性，捕捉与交换</text>
+  <rect x="28" y="146" width="84" height="30" rx="15" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text class="t" x="70" y="166" fill="#6b7280" style="fill:#6b7280">第 2 代</text>
+  <text class="m" x="160" y="166">1999</text><text class="m" x="245" y="166">GBC</text><text class="m" x="330" y="166">城都</text>
+  <rect x="390" y="152" width="60" height="18" rx="3" fill="#6b7280" opacity="0.85"/>
+  <text class="n" x="458" y="166">100</text><text class="s" x="492" y="166">(251)</text>
+  <text class="l" x="610" y="166">恶·钢属性，特攻特防拆分，孵蛋，闪光</text>
+  <rect x="16" y="184" width="948" height="46" fill="#f9fafb"/>
+  <rect x="28" y="192" width="84" height="30" rx="15" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+  <text class="t" x="70" y="212" fill="#7c3aed" style="fill:#7c3aed">第 3 代</text>
+  <text class="m" x="160" y="212">2002</text><text class="m" x="245" y="212">GBA</text><text class="m" x="330" y="212">丰缘</text>
+  <rect x="390" y="198" width="81" height="18" rx="3" fill="#7c3aed" opacity="0.85"/>
+  <text class="n" x="479" y="212">135</text><text class="s" x="513" y="212">(386)</text>
+  <text class="l" x="610" y="212">特性、性格，个体值 0–31，新努力值</text>
+  <rect x="28" y="238" width="84" height="30" rx="15" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="70" y="258" fill="#2563eb" style="fill:#2563eb">第 4 代</text>
+  <text class="m" x="160" y="258">2006</text><text class="m" x="245" y="258">NDS</text><text class="m" x="330" y="258">神奥</text>
+  <rect x="390" y="244" width="64" height="18" rx="3" fill="#2563eb" opacity="0.85"/>
+  <text class="n" x="462" y="258">107</text><text class="s" x="496" y="258">(493)</text>
+  <text class="l" x="610" y="258">物理 / 特殊按招式区分，Wi-Fi 联机</text>
+  <rect x="16" y="276" width="948" height="46" fill="#f9fafb"/>
+  <rect x="28" y="284" width="84" height="30" rx="15" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="70" y="304" fill="#2563eb" style="fill:#2563eb">第 5 代</text>
+  <text class="m" x="160" y="304">2010</text><text class="m" x="245" y="304">NDS</text><text class="m" x="330" y="304">合众</text>
+  <rect x="390" y="290" width="94" height="18" rx="3" fill="#2563eb" opacity="0.85"/>
+  <text class="n" x="492" y="304">156</text><text class="s" x="526" y="304">(649)</text>
+  <text class="l" x="610" y="304">隐藏特性，招式学习器无限次</text>
+  <rect x="28" y="330" width="84" height="30" rx="15" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="70" y="350" fill="#2563eb" style="fill:#2563eb">第 6 代</text>
+  <text class="m" x="160" y="350">2013</text><text class="m" x="245" y="350">3DS</text><text class="m" x="330" y="350">卡洛斯</text>
+  <rect x="390" y="336" width="43" height="18" rx="3" fill="#2563eb" opacity="0.85"/>
+  <text class="n" x="441" y="350">72</text><text class="s" x="475" y="350">(721)</text>
+  <text class="l" x="610" y="350">妖精属性，超级进化，全 3D</text>
+  <rect x="16" y="368" width="948" height="46" fill="#f9fafb"/>
+  <rect x="28" y="376" width="84" height="30" rx="15" fill="#dbeafe" stroke="#2563eb" stroke-width="1.5"/>
+  <text class="t" x="70" y="396" fill="#2563eb" style="fill:#2563eb">第 7 代</text>
+  <text class="m" x="160" y="396">2016</text><text class="m" x="245" y="396">3DS</text><text class="m" x="330" y="396">阿罗拉</text>
+  <rect x="390" y="382" width="53" height="18" rx="3" fill="#2563eb" opacity="0.85"/>
+  <text class="n" x="451" y="396">88</text><text class="s" x="485" y="396">(809)</text>
+  <text class="l" x="610" y="396">Z 招式，地区形态，极限特训</text>
+  <rect x="28" y="422" width="84" height="30" rx="15" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+  <text class="t" x="70" y="442" fill="#dc2626" style="fill:#dc2626">第 8 代</text>
+  <text class="m" x="160" y="442">2019</text><text class="m" x="245" y="442">Switch</text><text class="m" x="330" y="442">伽勒尔</text>
+  <rect x="390" y="428" width="58" height="18" rx="3" fill="#dc2626" opacity="0.85"/>
+  <text class="n" x="456" y="442">96</text><text class="s" x="490" y="442">(905)</text>
+  <text class="l" x="610" y="442">极巨化，薄荷，特性膏药</text>
+  <rect x="16" y="460" width="948" height="46" fill="#f9fafb"/>
+  <rect x="28" y="468" width="84" height="30" rx="15" fill="#fee2e2" stroke="#dc2626" stroke-width="1.5"/>
+  <text class="t" x="70" y="488" fill="#dc2626" style="fill:#dc2626">第 9 代</text>
+  <text class="m" x="160" y="488">2022</text><text class="m" x="245" y="488">Switch</text><text class="m" x="330" y="488">帕底亚</text>
+  <rect x="390" y="474" width="72" height="18" rx="3" fill="#dc2626" opacity="0.85"/>
+  <text class="n" x="470" y="488">120</text><text class="s" x="504" y="488">(1025)</text>
+  <text class="l" x="610" y="488">太晶化，开放世界</text>
+  <rect x="28" y="514" width="84" height="30" rx="15" fill="#ffffff" stroke="#dc2626" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text class="t" x="70" y="534" fill="#dc2626" style="fill:#dc2626">第 10 代</text>
+  <text class="m" x="160" y="534">2027</text><text class="m" x="245" y="534">Switch 2</text><text class="m" x="330" y="534">—</text>
+  <text class="s" x="390" y="534">未公布</text>
+  <text class="l" x="610" y="534">已公布，计划 2027 年发售</text>
+  <rect x="300" y="571" width="14" height="14" rx="3" fill="#6b7280" opacity="0.85"/><text class="s" x="320" y="583">GB / GBC</text>
+  <rect x="420" y="571" width="14" height="14" rx="3" fill="#7c3aed" opacity="0.85"/><text class="s" x="440" y="583">GBA</text>
+  <rect x="540" y="571" width="14" height="14" rx="3" fill="#2563eb" opacity="0.85"/><text class="s" x="560" y="583">DS / 3DS</text>
+  <rect x="660" y="571" width="14" height="14" rx="3" fill="#dc2626" opacity="0.85"/><text class="s" x="680" y="583">Switch</text>
+  <text class="s" x="40" y="583">括号内为累计数量</text>
+</svg>

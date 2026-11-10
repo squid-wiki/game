@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 380" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="50 级喷火龙速度：最差 94，没练过 105，满配 167">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6b7280"/></marker>
+  </defs>
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .s{font-size:13px;fill:#6b7280}
+    .t{font-size:14.5px;font-weight:600;fill:#111827;text-anchor:middle}
+    .m{font-size:14px;fill:#374151;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .n{font-family:Consolas,Menlo,monospace;font-size:14px;fill:#374151}
+    .ar{stroke:#6b7280;stroke-width:2;fill:none;marker-end:url(#a)}
+    
+  </style>
+  <rect x="1" y="1" width="938" height="378" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="38">50 级喷火龙的速度（种族值 100）</text>
+  <text class="t" x="90" y="92">最差</text><text class="c" x="90" y="112">IV 0 · EV 0 · 速度 ×0.9</text>
+  <rect x="170" y="70" width="400" height="36" fill="#2563eb"/>
+  <text class="m" x="370" y="93" style="fill:#ffffff;font-weight:600">种族值 100</text>
+  <rect x="570" y="70" width="20" height="36" fill="#9ca3af"/>
+  <text class="n" x="600" y="94" style="font-size:18px;font-weight:700;fill:#111827">94</text>
+  <rect x="546" y="70" width="44" height="36" fill="#ffffff" fill-opacity="0.8" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="4 3"/><text class="s" x="546" y="124" style="fill:#7c3aed">性格 ×0.9，削掉 11</text>
+  <text class="t" x="90" y="172">没练过</text><text class="c" x="90" y="192">IV 0 · EV 0 · 无修正</text>
+  <rect x="170" y="150" width="400" height="36" fill="#2563eb"/>
+  <text class="m" x="370" y="173" style="fill:#ffffff;font-weight:600">种族值 100</text>
+  <rect x="570" y="150" width="20" height="36" fill="#9ca3af"/>
+  <text class="n" x="600" y="174" style="font-size:18px;font-weight:700;fill:#111827">105</text>
+  <text class="t" x="90" y="252">满配</text><text class="c" x="90" y="272">IV 31 · EV 252 · 胆小</text>
+  <rect x="170" y="230" width="400" height="36" fill="#2563eb"/>
+  <text class="m" x="370" y="253" style="fill:#ffffff;font-weight:600">种族值 100</text>
+  <rect x="570" y="230" width="62" height="36" fill="#15803d"/>
+  <text class="m" x="601" y="253" style="fill:#ffffff;font-weight:600">个体</text>
+  <rect x="632" y="230" width="126" height="36" fill="#b45309"/>
+  <text class="m" x="695" y="253" style="fill:#ffffff;font-weight:600">努力 +31.5</text>
+  <rect x="758" y="230" width="20" height="36" fill="#9ca3af"/>
+  <rect x="778" y="230" width="60" height="36" fill="#7c3aed"/>
+  <text class="m" x="808" y="253" style="fill:#ffffff;font-weight:600">性格</text>
+  <text class="n" x="848" y="254" style="font-size:18px;font-weight:700;fill:#111827">167</text>
+  <rect x="60" y="318" width="14" height="14" rx="3" fill="#2563eb"/><text class="s" x="80" y="330">种族值</text>
+  <rect x="232" y="318" width="14" height="14" rx="3" fill="#15803d"/><text class="s" x="252" y="330">个体值 31 → +15.5</text>
+  <rect x="404" y="318" width="14" height="14" rx="3" fill="#b45309"/><text class="s" x="424" y="330">努力值 252 → +31.5</text>
+  <rect x="576" y="318" width="14" height="14" rx="3" fill="#9ca3af"/><text class="s" x="596" y="330">固定 +5</text>
+  <rect x="748" y="318" width="14" height="14" rx="3" fill="#7c3aed"/><text class="s" x="768" y="330">性格 ×1.1 → +15</text>
+  <text class="c" x="470" y="360">小数在公式里会向下取整，所以这里的分段只是近似</text>
+</svg>
