@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 440" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="草、火、水三角相克，劲敌总是选克制你的那只">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#374151"/></marker>
+  </defs>
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .t{font-size:17px;font-weight:700;text-anchor:middle}
+    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .m{font-size:14px;fill:#374151;text-anchor:middle}
+    .ar{stroke:#374151;stroke-width:2;fill:none;marker-end:url(#a)}
+  </style>
+  <rect x="1" y="1" width="938" height="438" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="36">草 → 水 → 火 → 草：箭头指向被克制的一方</text>
+
+  <!-- triangle -->
+  <circle cx="230" cy="120" r="50" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+  <text class="t" x="230" y="117" style="fill:#15803d">草</text><text class="c" x="230" y="138">妙蛙种子</text>
+  <circle cx="110" cy="330" r="50" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <text class="t" x="110" y="327" style="fill:#dc2626">火</text><text class="c" x="110" y="348">小火龙</text>
+  <circle cx="350" cy="330" r="50" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+  <text class="t" x="350" y="327" style="fill:#2563eb">水</text><text class="c" x="350" y="348">杰尼龟</text>
+
+  <path class="ar" d="M262 160 L322 284"/>
+  <text class="m" x="330" y="210">草克水</text>
+  <path class="ar" d="M298 340 L164 340"/>
+  <text class="m" x="230" y="366">水克火</text>
+  <path class="ar" d="M136 286 L198 162"/>
+  <text class="m" x="128" y="210">火克草</text>
+  <text class="c" x="230" y="410">被克制的一方受到 2 倍伤害</text>
+
+  <!-- rival table -->
+  <line x1="470" y1="70" x2="470" y2="410" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="t" x="700" y="86" style="fill:#111827;font-size:16px">劲敌永远在你之后挑，专挑克你的</text>
+  <rect x="510" y="110" width="380" height="40" rx="8" fill="#f3f4f6"/>
+  <text class="m" x="600" y="136" style="font-weight:600">你选</text>
+  <text class="m" x="800" y="136" style="font-weight:600">劲敌选</text>
+
+  <rect x="510" y="160" width="380" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <text class="m" x="600" y="196" style="fill:#15803d;font-weight:600">妙蛙种子</text>
+  <path class="ar" d="M660 190 L740 190"/>
+  <text class="m" x="800" y="196" style="fill:#dc2626;font-weight:600">小火龙</text>
+
+  <rect x="510" y="230" width="380" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <text class="m" x="600" y="266" style="fill:#dc2626;font-weight:600">小火龙</text>
+  <path class="ar" d="M660 260 L740 260"/>
+  <text class="m" x="800" y="266" style="fill:#2563eb;font-weight:600">杰尼龟</text>
+
+  <rect x="510" y="300" width="380" height="60" rx="8" fill="#ffffff" stroke="#e5e7eb"/>
+  <text class="m" x="600" y="336" style="fill:#2563eb;font-weight:600">杰尼龟</text>
+  <path class="ar" d="M660 330 L740 330"/>
+  <text class="m" x="800" y="336" style="fill:#15803d;font-weight:600">妙蛙种子</text>
+
+  <text class="c" x="700" y="396">但开头两只都只会一般系招式，属性差距暂时没影响</text>
+</svg>

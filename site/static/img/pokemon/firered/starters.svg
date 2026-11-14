@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 520" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="火红御三家对比：妙蛙种子、小火龙、杰尼龟">
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .name{font-size:20px;font-weight:700;text-anchor:middle}
+    .tag{font-size:13px;font-weight:600;fill:#ffffff;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .s{font-size:13px;fill:#6b7280}
+    .k{font-size:13px;fill:#6b7280;text-anchor:middle}
+    .evo{font-size:14px;fill:#111827;text-anchor:middle}
+  </style>
+  <rect x="1" y="1" width="938" height="518" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="36">三选一：属性、进化、前三个道馆的难度</text>
+
+  <!-- Bulbasaur -->
+  <g transform="translate(30,60)">
+    <rect width="280" height="430" rx="12" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
+    <text class="name" x="140" y="38" style="fill:#15803d">妙蛙种子</text>
+    <rect x="100" y="52" width="80" height="24" rx="12" fill="#16a34a"/><text class="tag" x="140" y="69">草 / 毒</text>
+    <text class="evo" x="140" y="108">妙蛙种子 → 妙蛙草 → 妙蛙花</text>
+    <text class="k" x="140" y="128">Lv16 进化 · Lv32 进化</text>
+    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">525</text>
+    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="236" height="8" rx="4" fill="#15803d"/>
+    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#15803d">很轻松</text>
+    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#15803d">轻松</text>
+    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#15803d">轻松</text>
+    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
+    <text class="l" x="20" y="334">前期最省心。</text>
+    <text class="s" x="20" y="358">Lv10 学藤鞭；寄生种子、催眠粉</text>
+    <text class="s" x="20" y="380">让它很耐打。中期怕火、飞行、</text>
+    <text class="s" x="20" y="402">超能力系。</text>
+  </g>
+
+  <!-- Charmander -->
+  <g transform="translate(330,60)">
+    <rect width="280" height="430" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
+    <text class="name" x="140" y="38" style="fill:#dc2626">小火龙</text>
+    <rect x="110" y="52" width="60" height="24" rx="12" fill="#dc2626"/><text class="tag" x="140" y="69">火</text>
+    <text class="evo" x="140" y="108">小火龙 → 火恐龙 → 喷火龙</text>
+    <text class="k" x="140" y="128">Lv16 进化 · Lv36 进化（火 / 飞行）</text>
+    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">534</text>
+    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="240" height="8" rx="4" fill="#dc2626"/>
+    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#b91c1c">难</text>
+    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#b91c1c">难</text>
+    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#6b7280">普通</text>
+    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
+    <text class="l" x="20" y="334">开局最难，后期最帅。</text>
+    <text class="s" x="20" y="358">前两个道馆都被克，要靠 Lv13 的</text>
+    <text class="s" x="20" y="380">金属爪或队友。适合玩过一遍、</text>
+    <text class="s" x="20" y="402">想要点挑战的人。</text>
+  </g>
+
+  <!-- Squirtle -->
+  <g transform="translate(630,60)">
+    <rect width="280" height="430" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
+    <text class="name" x="140" y="38" style="fill:#2563eb">杰尼龟</text>
+    <rect x="110" y="52" width="60" height="24" rx="12" fill="#2563eb"/><text class="tag" x="140" y="69">水</text>
+    <text class="evo" x="140" y="108">杰尼龟 → 卡咪龟 → 水箭龟</text>
+    <text class="k" x="140" y="128">Lv16 进化 · Lv36 进化</text>
+    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">530</text>
+    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="238" height="8" rx="4" fill="#2563eb"/>
+    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#15803d">很轻松</text>
+    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#6b7280">普通</text>
+    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#b91c1c">偏难</text>
+    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
+    <text class="l" x="20" y="334">稳，防御高。</text>
+    <text class="s" x="20" y="358">Lv7 学泡沫，打小刚四倍伤害。</text>
+    <text class="s" x="20" y="380">后期水系招式多、秘传招式冲浪</text>
+    <text class="s" x="20" y="402">也能学，全程都好用。</text>
+  </g>
+</svg>

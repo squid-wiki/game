@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 470" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="打小刚的推荐等级和主力招式">
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .t{font-size:15px;font-weight:600;fill:#111827}
+    .l{font-size:14px;fill:#374151}
+    .s{font-size:13px;fill:#6b7280}
+    .ax{font-size:12px;fill:#6b7280;text-anchor:middle}
+    .w{font-size:13px;font-weight:600;fill:#ffffff}
+  </style>
+  <rect x="1" y="1" width="938" height="468" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="36">打小刚：练到多少级、用什么招式</text>
+  <text class="s" x="470" y="58" text-anchor="middle">小刚：小拳石 Lv12、大岩蛇 Lv14，都是岩石 / 地面双属性</text>
+
+  <!-- axis: Lv5 at x=300, Lv16 at x=860, 50.9px per level -->
+  <g>
+    <line x1="300" y1="92" x2="860" y2="92" stroke="#d1d5db"/>
+    <text class="ax" x="300" y="84">Lv5</text>
+    <text class="ax" x="452.7" y="84">Lv8</text>
+    <text class="ax" x="605.5" y="84">Lv11</text>
+    <text class="ax" x="758.2" y="84">Lv14</text>
+    <text class="ax" x="860" y="84">Lv16</text>
+    <line x1="758.2" y1="92" x2="758.2" y2="400" stroke="#b45309" stroke-dasharray="4 4"/>
+    <text class="s" x="766" y="416" style="fill:#b45309">大岩蛇 Lv14</text>
+  </g>
+
+  <!-- rows: bar from Lv5 to recommended level -->
+  <text class="t" x="40" y="128" style="fill:#2563eb">杰尼龟</text>
+  <text class="s" x="40" y="146">泡沫 · Lv7 学会</text>
+  <rect x="300" y="114" width="254.5" height="30" rx="6" fill="#2563eb"/>
+  <text class="w" x="310" y="134">推荐 Lv10</text>
+  <text class="s" x="566" y="134">水 → 岩石 / 地面 = 4 倍</text>
+
+  <text class="t" x="40" y="188" style="fill:#15803d">妙蛙种子</text>
+  <text class="s" x="40" y="206">藤鞭 · Lv10 学会</text>
+  <rect x="300" y="174" width="305.5" height="30" rx="6" fill="#15803d"/>
+  <text class="w" x="310" y="194">推荐 Lv11</text>
+  <text class="s" x="617" y="194">草 → 岩石 / 地面 = 4 倍</text>
+
+  <text class="t" x="40" y="248" style="fill:#dc2626">小火龙</text>
+  <text class="s" x="40" y="266">金属爪 · Lv13 学会</text>
+  <rect x="300" y="234" width="458.2" height="30" rx="6" fill="#dc2626"/>
+  <text class="w" x="310" y="254">推荐 Lv14 以上</text>
+  <text class="s" x="770" y="254">钢 → 岩石 = 2 倍</text>
+
+  <line x1="40" y1="290" x2="900" y2="290" stroke="#e5e7eb"/>
+  <text class="s" x="40" y="312">小火龙的队友（任选一只）</text>
+
+  <text class="t" x="40" y="346" style="fill:#7c3aed">巴大蝶</text>
+  <text class="s" x="40" y="364">念力 · 进化时学会</text>
+  <rect x="300" y="332" width="254.5" height="30" rx="6" fill="#7c3aed"/>
+  <text class="w" x="310" y="352">Lv10 进化</text>
+  <text class="s" x="566" y="352">绿毛虫 Lv7 → 铁甲蛹 Lv10 → 巴大蝶</text>
+
+  <text class="t" x="40" y="398" style="fill:#b45309">猴怪（火红限定）</text>
+  <text class="s" x="40" y="416">踢倒 · Lv6 学会</text>
+  <rect x="300" y="384" width="356.4" height="30" rx="6" fill="#b45309"/>
+  <text class="w" x="310" y="404">推荐 Lv12</text>
+  <text class="s" x="668" y="404">22 号道路抓</text>
+</svg>

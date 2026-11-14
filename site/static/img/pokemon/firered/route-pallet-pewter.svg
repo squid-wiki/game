@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="从真新镇到尼比市的路线示意图">
+  <style>
+    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
+    .t{font-size:15px;font-weight:600;fill:#111827;text-anchor:middle}
+    .l{font-size:14px;fill:#374151}
+    .s{font-size:13px;fill:#6b7280}
+    .n{font-size:13px;font-weight:600;fill:#ffffff;text-anchor:middle}
+    .road{stroke:#d6b27a;stroke-width:14;fill:none;stroke-linecap:round}
+  </style>
+  <rect x="1" y="1" width="938" height="638" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  <text class="h" x="470" y="36">第 1 篇的路线：从真新镇一路向北到尼比市</text>
+  <text class="s" x="470" y="58" text-anchor="middle">示意图，不按比例；圆圈里的数字是推荐顺序</text>
+
+  <!-- roads -->
+  <path class="road" d="M300 560 L300 470"/>
+  <path class="road" d="M300 410 L300 330"/>
+  <path class="road" d="M300 410 L130 410"/>
+  <path class="road" d="M300 270 L300 200"/>
+  <path class="road" d="M300 140 L300 120"/>
+  <!-- forest band -->
+  <rect x="230" y="176" width="140" height="70" rx="10" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
+  <text class="t" x="300" y="208" style="fill:#166534">常青森林</text>
+  <text class="s" x="300" y="228" text-anchor="middle">捕虫少年多</text>
+
+  <!-- towns -->
+  <rect x="230" y="556" width="140" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text class="t" x="300" y="590">真新镇</text>
+  <rect x="230" y="386" width="140" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
+  <text class="t" x="300" y="420">常青市</text>
+  <rect x="230" y="72" width="140" height="56" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
+  <text class="t" x="300" y="106" style="fill:#92400e">尼比市</text>
+  <rect x="40" y="386" width="100" height="56" rx="10" fill="#f9fafb" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text class="t" x="90" y="412" style="font-size:14px">22 号道路</text>
+  <text class="s" x="90" y="431" text-anchor="middle">可选</text>
+
+  <text class="s" x="316" y="510">1 号道路</text>
+  <text class="s" x="316" y="360">2 号道路</text>
+  <text class="s" x="316" y="160">2 号道路北段</text>
+
+  <!-- numbered steps -->
+  <g>
+    <circle cx="420" cy="584" r="13" fill="#2563eb"/><text class="n" x="420" y="589">1</text>
+    <text class="l" x="444" y="580">家里电脑取出伤药 → 走进草丛被大木博士叫住</text>
+    <text class="s" x="444" y="600">在研究所选御三家，和劲敌打第一场</text>
+
+    <circle cx="420" cy="500" r="13" fill="#2563eb"/><text class="n" x="420" y="505">2</text>
+    <text class="l" x="444" y="496">1 号道路：只有波波、小拉达</text>
+    <text class="s" x="444" y="516">顺路练几级，御三家到 Lv7 左右会学第一个属性招式</text>
+
+    <circle cx="420" cy="414" r="13" fill="#2563eb"/><text class="n" x="420" y="419">3</text>
+    <text class="l" x="444" y="410">友好商店拿包裹 → 回真新镇换图鉴 → 再回来</text>
+    <text class="s" x="444" y="430">道馆关着；北边的老爷爷在你拿到图鉴前不让路</text>
+
+    <circle cx="420" cy="330" r="13" fill="#2563eb"/><text class="n" x="420" y="335">4</text>
+    <text class="l" x="444" y="326">2 号道路：开始能抓绿毛虫、独角虫</text>
+
+    <circle cx="420" cy="212" r="13" fill="#2563eb"/><text class="n" x="420" y="217">5</text>
+    <text class="l" x="444" y="208">常青森林：可遇到皮卡丘（少见）</text>
+    <text class="s" x="444" y="228">穿过去就到尼比市</text>
+
+    <circle cx="420" cy="100" r="13" fill="#b45309"/><text class="n" x="420" y="105">6</text>
+    <text class="l" x="444" y="96">尼比市道馆：小刚（岩石系）</text>
+    <text class="s" x="444" y="116">本篇终点</text>
+  </g>
+  <text class="s" x="40" y="470">火红版：22 号道路能抓到</text>
+  <text class="s" x="40" y="488">猴怪，打小刚用</text>
+</svg>
