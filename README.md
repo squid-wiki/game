@@ -16,6 +16,7 @@ packages/
 
 - 不提供 ROM 下载，不使用宝可梦官方 logo。
 - 宝可梦及相关名称为 Nintendo / Creatures / GAME FREAK 的商标，本站为非官方爱好者项目。
+- 文章配图统一采用《火红 / 叶绿》原版精灵与地图素材，来源、版本和离线生成方法见[配图说明](site/static/img/pokemon/ASSETS.md)。
 
 ## 许可证
 

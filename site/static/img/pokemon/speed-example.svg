@@ -1,46 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 380" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="50 级喷火龙速度：最差 94，没练过 105，满配 167">
-  <defs>
-    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#6b7280"/></marker>
-  </defs>
-  <style>
-    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
-    .c{font-size:13px;fill:#6b7280;text-anchor:middle}
-    .s{font-size:13px;fill:#6b7280}
-    .t{font-size:14.5px;font-weight:600;fill:#111827;text-anchor:middle}
-    .m{font-size:14px;fill:#374151;text-anchor:middle}
-    .l{font-size:14px;fill:#374151}
-    .n{font-family:Consolas,Menlo,monospace;font-size:14px;fill:#374151}
-    .ar{stroke:#6b7280;stroke-width:2;fill:none;marker-end:url(#a)}
-    
-  </style>
-  <rect x="1" y="1" width="938" height="378" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
-  <text class="h" x="470" y="38">50 级喷火龙的速度（种族值 100）</text>
-  <text class="t" x="90" y="92">最差</text><text class="c" x="90" y="112">IV 0 · EV 0 · 速度 ×0.9</text>
-  <rect x="170" y="70" width="400" height="36" fill="#2563eb"/>
-  <text class="m" x="370" y="93" style="fill:#ffffff;font-weight:600">种族值 100</text>
-  <rect x="570" y="70" width="20" height="36" fill="#9ca3af"/>
-  <text class="n" x="600" y="94" style="font-size:18px;font-weight:700;fill:#111827">94</text>
-  <rect x="546" y="70" width="44" height="36" fill="#ffffff" fill-opacity="0.8" stroke="#7c3aed" stroke-width="1.5" stroke-dasharray="4 3"/><text class="s" x="546" y="124" style="fill:#7c3aed">性格 ×0.9，削掉 11</text>
-  <text class="t" x="90" y="172">没练过</text><text class="c" x="90" y="192">IV 0 · EV 0 · 无修正</text>
-  <rect x="170" y="150" width="400" height="36" fill="#2563eb"/>
-  <text class="m" x="370" y="173" style="fill:#ffffff;font-weight:600">种族值 100</text>
-  <rect x="570" y="150" width="20" height="36" fill="#9ca3af"/>
-  <text class="n" x="600" y="174" style="font-size:18px;font-weight:700;fill:#111827">105</text>
-  <text class="t" x="90" y="252">满配</text><text class="c" x="90" y="272">IV 31 · EV 252 · 胆小</text>
-  <rect x="170" y="230" width="400" height="36" fill="#2563eb"/>
-  <text class="m" x="370" y="253" style="fill:#ffffff;font-weight:600">种族值 100</text>
-  <rect x="570" y="230" width="62" height="36" fill="#15803d"/>
-  <text class="m" x="601" y="253" style="fill:#ffffff;font-weight:600">个体</text>
-  <rect x="632" y="230" width="126" height="36" fill="#b45309"/>
-  <text class="m" x="695" y="253" style="fill:#ffffff;font-weight:600">努力 +31.5</text>
-  <rect x="758" y="230" width="20" height="36" fill="#9ca3af"/>
-  <rect x="778" y="230" width="60" height="36" fill="#7c3aed"/>
-  <text class="m" x="808" y="253" style="fill:#ffffff;font-weight:600">性格</text>
-  <text class="n" x="848" y="254" style="font-size:18px;font-weight:700;fill:#111827">167</text>
-  <rect x="60" y="318" width="14" height="14" rx="3" fill="#2563eb"/><text class="s" x="80" y="330">种族值</text>
-  <rect x="232" y="318" width="14" height="14" rx="3" fill="#15803d"/><text class="s" x="252" y="330">个体值 31 → +15.5</text>
-  <rect x="404" y="318" width="14" height="14" rx="3" fill="#b45309"/><text class="s" x="424" y="330">努力值 252 → +31.5</text>
-  <rect x="576" y="318" width="14" height="14" rx="3" fill="#9ca3af"/><text class="s" x="596" y="330">固定 +5</text>
-  <rect x="748" y="318" width="14" height="14" rx="3" fill="#7c3aed"/><text class="s" x="768" y="330">性格 ×1.1 → +15</text>
-  <text class="c" x="470" y="360">小数在公式里会向下取整，所以这里的分段只是近似</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 864" role="img" aria-labelledby="title desc" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+<title id="title">同样 50 级，速度为什么不同</title><desc id="desc">三组速度精确计算分别为94、105、167。条形长度按最终能力值等比例绘制。普通喷火龙使用第三世代火红叶绿精灵。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#6b7f88"/></marker></defs>
+<style>.title{font-size:25px;font-weight:700;fill:#173740}.heading{font-size:22px;font-weight:700;fill:#173740}.body{font-size:20px;fill:#294752}.small{font-size:17px;fill:#526b75}.note{font-size:15px;fill:#526b75}.badge{font-size:17px;font-weight:700;fill:#fff}.number{font-size:20px;font-weight:700;fill:#fff}.value{font-size:24px;font-weight:700;fill:#173740}</style>
+<rect x="1" y="1" width="718" height="862" rx="12" fill="#f6f9f8" stroke="#d9e3e6"/><text x="28" y="42" class="title" >同样 50 级，速度为什么不同</text><text x="28" y="72" class="small" >以《火红 / 叶绿》的喷火龙为例；其他条件固定</text>
+<rect x="24" y="96" width="672" height="158" rx="12" fill="#fff" stroke="#d9e3e6"/><image x="28" y="106" width="128" height="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAMFBMVEV71Zz2akHexYMprL0ge5QYUnP/5pz21Yv2vSAQEBD/xWL/lEHValKsQQDV1dX///9zLLCDAAAAAXRSTlMAQObYZgAAA8BJREFUSImVlb1v20YUwM9DAAkwgXCyC9QLF8NAOslLZ5FDtwy8wYD1R8SL2qGDNo1sCw0XkdbOJGMG5RjACWAYLO8Kp4WBSryDZgFNOhtImr53R1Ifdlv0DZSO76f3de89EfJ/RP6Hfje9rr5c3A/Mn1eK+Yvr+/T6Ve3C4fc42xU8i+qDEnpbLwrO8+bkiE1iF9VcROvAOuGUPBMs3gCUEKtA52mWj+iJiATRemY93uh14DmjFIA41SnnM8Y0UTf0dJXJfEpREs1/TqXiKVgHoLcCyhHqe/NUl9Pz9xCPsdBrfDh8FPoBnafps+y3ycdMJgQBqhogo77vU5WWHMWUawMoX4YIjLnVY7aOQKAOorz0DcAYMFAhKKgjMShZhxAa4OS9/sAyrYTcBjIEAkpv2ScNNRDgQ10iUKVRvvQt0JOzRIkYfJgQmigbAM5tIZQUuZJ0HYAYuxXgvPkSAKFutoHjY2rS2nUPRC5EAqeQUhsDJtHt+vCiJ6+V+4UJAoCgzgKBDlgIAqrydwcxGBByRM0PaqDb6fhhGNLThV6UCAgAfAO0TBm6nWMfLdCSJVlUGiAM1oBOpxOgBdp7Bo2LwAyB0wsDQBk67KcAhVLGIgPkVZY7rYcAdL8mDwI/YNh3sSRl1gCtCoD7DYPHhDBsTM0LSKMCBkMEvoFcwseYEbQ2gxEAEyMCdSKtIQDqEgEK0RLSPuF8jBbgQh/05E5rOEDAzku0gMKarkILBiCtfbcB9PJP+IwLXmRYKUbI6cX1zmDgktgCk9kHRqBZcOZAEmgafTvcdwGwM33+R8IT6Fhp9GIG8zW51e63DQCtwks+ZdaAyLUWvyyX7rABCANiGhut5z1CQJzP3P0BaddDDwQz+sN+v5+zRMnZD3t7T1ZbgjCrvwJ9/wiPkevuDawODYrcjM1b1Pe/M68H7v5Doy5TlDHOneivAS33dwT0q7QCsspBDTjuO9NzIJrz6ZqB/lcm9PIAn8oMNQwdLrqrGshhSWj+2gCFnfvxOqBgleqCGzuxMPopPuSh1Z8p09xTYgFDTFPYcOJXS3yP8yWKqL4FURTFU1hRAHieBXDAmC1S+xEQWTYGC3CZnuednZ3BlTGW1CX+EYncbGuRA3B4eGSarpE23B74tPvJQxPxJkAYvDyq+gAtMLvJNokVcGT0EdkkmGd7BToN9TK+84/DEgNENm0oTbRNONjusmqtgi+X24Digleh4bL8zLaBBSxA1cSOe2DLw1+Lj4tPdxyvpM0my8kdv5tI1P4XA/8sfwOC9wHzb6BmugAAAABJRU5ErkJggg=="/><text x="178" y="136" class="heading" >喷火龙 · Lv50</text><text x="178" y="174" class="body" >速度种族值 100 · 普通形态</text><text x="178" y="210" class="small" >性格修正在最后一步向下取整。</text><text x="32" y="286" class="heading" >减速性格</text><text x="32" y="316" class="small" >IV 0 · EV 0 · 速度 ×0.9</text><rect x="32" y="331" width="329" height="32" rx="6" fill="#8f7b9f"/><text x="373" y="356" class="value" >94</text><text x="32" y="392" class="small" >⌊(⌊(200 + 0 + 0) × 0.5⌋ + 5) × 0.9⌋ = 94</text><text x="32" y="428" class="heading" >无性格修正</text><text x="32" y="458" class="small" >IV 0 · EV 0 · 速度 ×1</text><rect x="32" y="473" width="367.5" height="32" rx="6" fill="#618fa6"/><text x="411.5" y="498" class="value" >105</text><text x="32" y="534" class="small" >⌊(⌊(200 + 0 + 0) × 0.5⌋ + 5) × 1⌋ = 105</text><text x="32" y="570" class="heading" >胆小性格</text><text x="32" y="600" class="small" >IV 31 · EV 252 · 速度 ×1.1</text><rect x="32" y="615" width="584.5" height="32" rx="6" fill="#5e4a88"/><text x="628.5" y="640" class="value" >167</text><text x="32" y="676" class="small" >⌊(⌊(200 + 31 + 63) × 0.5⌋ + 5) × 1.1⌋ = 167</text><rect x="24" y="728" width="672" height="88" rx="12" fill="#e9f5e8" stroke="#d9e3e6"/><text x="44" y="764" class="body" >胆小：⌊(147 + 5) × 1.1⌋ = 167</text><text x="44" y="795" class="small" >条长按最终速度绘制，避免把近似贡献当成精确加值。</text>
+<text x="28" y="844" class="note" >原版像素素材 · 中文攻略标注 · 非游戏截图</text>
 </svg>

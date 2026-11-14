@@ -25,11 +25,11 @@
   <path class="ar" d="M500 196 C 560 196, 560 236, 610 236"/>
   <rect x="30" y="248" width="470" height="80" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
   <text class="t" x="90" y="284" style="fill:#b45309;font-size:17px">努力值</text><text class="c" x="90" y="306">后天训练</text>
-  <text class="l" x="160" y="278">打倒宝可梦积累</text><text class="l" x="160" y="302">每项 ≤252，合计 ≤510</text><text class="s" x="160" y="320">随时可练、可洗</text>
+  <text class="l" x="160" y="278">打倒宝可梦积累，合计 ≤510</text><text class="l" x="160" y="302">三至五代每项 ≤255；六代起 ≤252</text><text class="s" x="160" y="320">火红 / 叶绿没有降努力值树果的效果</text>
   <path class="ar" d="M500 288 C 560 288, 560 236, 610 236"/>
   <rect x="30" y="340" width="470" height="80" rx="10" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
   <text class="t" x="90" y="376" style="fill:#7c3aed;font-size:17px">性格</text><text class="c" x="90" y="398">偏科</text>
-  <text class="l" x="160" y="370">遇到时随机</text><text class="l" x="160" y="394">一项 ×1.1，一项 ×0.9</text><text class="s" x="160" y="412">八代起薄荷可改</text>
+  <text class="l" x="160" y="370">共 25 种；HP 不受影响</text><text class="l" x="160" y="394">20 种一升一降；5 种无修正</text><text class="s" x="160" y="412">八代起薄荷可改能力修正</text>
   <path class="ar" d="M500 380 C 560 380, 560 236, 610 236"/>
   <rect x="612" y="186" width="150" height="100" rx="10" fill="#f9fafb" stroke="#6b7280" stroke-width="1.5"/>
   <text class="t" x="687" y="230">公式</text><text class="c" x="687" y="254">（见正文）</text>

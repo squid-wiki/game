@@ -1,0 +1,76 @@
+{
+  "game": "Pokémon FireRed / LeafGreen (GBA, Generation III)",
+  "spriteRevision": "c0542f7c51215d9672439012838c99f520596cbd",
+  "gameRevision": "ce6406d8c2eaf46d543c8a2606de0c3cb1951982",
+  "assets": [
+    {
+      "path": "sprites/bulbasaur.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/1.png",
+      "sha256": "523c5d50a673c3a46a68a96bd32a63fcfae9192637fb6407198a43746c38f7e3"
+    },
+    {
+      "path": "sprites/charmander.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/4.png",
+      "sha256": "0235fcad1ca309f303947ae1688d7564636971c30a0c707b6ee123e697f76022"
+    },
+    {
+      "path": "sprites/charizard.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/6.png",
+      "sha256": "2896ad7b2231bb914ad5109a24b6d25443af738cb48ab232d8feb1a5d35882d2"
+    },
+    {
+      "path": "sprites/squirtle.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/7.png",
+      "sha256": "30d6413a70495a23d4af23a941bae57f5373f7b6fec1e05eb8ef78a0636898bc"
+    },
+    {
+      "path": "sprites/butterfree.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/12.png",
+      "sha256": "8c585036c073df2fd4c51a9c1384b0af4b8a855e80f293b1eb374ffd612c8471"
+    },
+    {
+      "path": "sprites/pikachu.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/25.png",
+      "sha256": "49e9816a16c0c886233e25d9b91f7ee86ac5083c93aa973a9b210528555f72ec"
+    },
+    {
+      "path": "sprites/mankey.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/56.png",
+      "sha256": "da03832c776ed4302f452ec49a6d60720d06c238fee294a95bc441e33d5128ef"
+    },
+    {
+      "path": "sprites/geodude.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/74.png",
+      "sha256": "58fd3d3a5a480c0f813ef116381681753d85e8f90224ee02fb16740deac34d19"
+    },
+    {
+      "path": "sprites/onix.png",
+      "source": "https://raw.githubusercontent.com/PokeAPI/sprites/c0542f7c51215d9672439012838c99f520596cbd/sprites/pokemon/versions/generation-iii/firered-leafgreen/95.png",
+      "sha256": "e8928f6143a9c839c43bd505e574ebf19d4365610f18caaa6e3eab33bb1d7ac7"
+    },
+    {
+      "path": "maps/region-map-tiles.png",
+      "source": "https://raw.githubusercontent.com/pret/pokefirered/ce6406d8c2eaf46d543c8a2606de0c3cb1951982/graphics/region_map/region_map.png",
+      "sha256": "7c402c5461d5547191cbfefb279727964e19c6dd60d33f5b0bb052ea20545184"
+    },
+    {
+      "path": "maps/kanto.bin",
+      "source": "https://raw.githubusercontent.com/pret/pokefirered/ce6406d8c2eaf46d543c8a2606de0c3cb1951982/graphics/region_map/kanto.bin",
+      "sha256": "c9f38c5d52099958c18efe737a45ba04ce8101b0eb349e9d2243bf8324d82b49"
+    },
+    {
+      "path": "maps/region-map.pal",
+      "source": "https://raw.githubusercontent.com/pret/pokefirered/ce6406d8c2eaf46d543c8a2606de0c3cb1951982/graphics/region_map/region_map.pal",
+      "sha256": "9151a87908033522cf4c3ae2b54cf65f77f7609c353ac73ceae402a386245bc8"
+    },
+    {
+      "path": "maps/kanto-town-map.png",
+      "derivedFrom": [
+        "maps/region-map-tiles.png",
+        "maps/kanto.bin",
+        "maps/region-map.pal"
+      ],
+      "sha256": "fd393496480cd527272edf54c1fe55cfa249d65549f227c01cbac681fda6061e"
+    }
+  ]
+}

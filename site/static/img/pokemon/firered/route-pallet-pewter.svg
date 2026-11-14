@@ -1,67 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 640" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="从真新镇到尼比市的路线示意图">
-  <style>
-    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
-    .t{font-size:15px;font-weight:600;fill:#111827;text-anchor:middle}
-    .l{font-size:14px;fill:#374151}
-    .s{font-size:13px;fill:#6b7280}
-    .n{font-size:13px;font-weight:600;fill:#ffffff;text-anchor:middle}
-    .road{stroke:#d6b27a;stroke-width:14;fill:none;stroke-linecap:round}
-  </style>
-  <rect x="1" y="1" width="938" height="638" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
-  <text class="h" x="470" y="36">第 1 篇的路线：从真新镇一路向北到尼比市</text>
-  <text class="s" x="470" y="58" text-anchor="middle">示意图，不按比例；圆圈里的数字是推荐顺序</text>
-
-  <!-- roads -->
-  <path class="road" d="M300 560 L300 470"/>
-  <path class="road" d="M300 410 L300 330"/>
-  <path class="road" d="M300 410 L130 410"/>
-  <path class="road" d="M300 270 L300 200"/>
-  <path class="road" d="M300 140 L300 120"/>
-  <!-- forest band -->
-  <rect x="230" y="176" width="140" height="70" rx="10" fill="#bbf7d0" stroke="#15803d" stroke-width="1.5"/>
-  <text class="t" x="300" y="208" style="fill:#166534">常青森林</text>
-  <text class="s" x="300" y="228" text-anchor="middle">捕虫少年多</text>
-
-  <!-- towns -->
-  <rect x="230" y="556" width="140" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
-  <text class="t" x="300" y="590">真新镇</text>
-  <rect x="230" y="386" width="140" height="56" rx="10" fill="#f3f4f6" stroke="#6b7280" stroke-width="1.5"/>
-  <text class="t" x="300" y="420">常青市</text>
-  <rect x="230" y="72" width="140" height="56" rx="10" fill="#fef3c7" stroke="#b45309" stroke-width="1.5"/>
-  <text class="t" x="300" y="106" style="fill:#92400e">尼比市</text>
-  <rect x="40" y="386" width="100" height="56" rx="10" fill="#f9fafb" stroke="#9ca3af" stroke-width="1.5" stroke-dasharray="5 4"/>
-  <text class="t" x="90" y="412" style="font-size:14px">22 号道路</text>
-  <text class="s" x="90" y="431" text-anchor="middle">可选</text>
-
-  <text class="s" x="316" y="510">1 号道路</text>
-  <text class="s" x="316" y="360">2 号道路</text>
-  <text class="s" x="316" y="160">2 号道路北段</text>
-
-  <!-- numbered steps -->
-  <g>
-    <circle cx="420" cy="584" r="13" fill="#2563eb"/><text class="n" x="420" y="589">1</text>
-    <text class="l" x="444" y="580">家里电脑取出伤药 → 走进草丛被大木博士叫住</text>
-    <text class="s" x="444" y="600">在研究所选御三家，和劲敌打第一场</text>
-
-    <circle cx="420" cy="500" r="13" fill="#2563eb"/><text class="n" x="420" y="505">2</text>
-    <text class="l" x="444" y="496">1 号道路：只有波波、小拉达</text>
-    <text class="s" x="444" y="516">顺路练几级，御三家到 Lv7 左右会学第一个属性招式</text>
-
-    <circle cx="420" cy="414" r="13" fill="#2563eb"/><text class="n" x="420" y="419">3</text>
-    <text class="l" x="444" y="410">友好商店拿包裹 → 回真新镇换图鉴 → 再回来</text>
-    <text class="s" x="444" y="430">道馆关着；北边的老爷爷在你拿到图鉴前不让路</text>
-
-    <circle cx="420" cy="330" r="13" fill="#2563eb"/><text class="n" x="420" y="335">4</text>
-    <text class="l" x="444" y="326">2 号道路：开始能抓绿毛虫、独角虫</text>
-
-    <circle cx="420" cy="212" r="13" fill="#2563eb"/><text class="n" x="420" y="217">5</text>
-    <text class="l" x="444" y="208">常青森林：可遇到皮卡丘（少见）</text>
-    <text class="s" x="444" y="228">穿过去就到尼比市</text>
-
-    <circle cx="420" cy="100" r="13" fill="#b45309"/><text class="n" x="420" y="105">6</text>
-    <text class="l" x="444" y="96">尼比市道馆：小刚（岩石系）</text>
-    <text class="s" x="444" y="116">本篇终点</text>
-  </g>
-  <text class="s" x="40" y="470">火红版：22 号道路能抓到</text>
-  <text class="s" x="40" y="488">猴怪，打小刚用</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1244" role="img" aria-labelledby="title desc" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+<title id="title">从真新镇到第一枚徽章</title><desc id="desc">原版关都地图标注真新镇、常青市和尼比市。主线通过1号道路、2号道路与常青森林，22号道路在常青市西侧，是可选支线。此图不用于森林内部逐格导航。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#6b7f88"/></marker></defs>
+<style>.title{font-size:25px;font-weight:700;fill:#173740}.heading{font-size:22px;font-weight:700;fill:#173740}.body{font-size:20px;fill:#294752}.small{font-size:17px;fill:#526b75}.note{font-size:15px;fill:#526b75}.badge{font-size:17px;font-weight:700;fill:#fff}.number{font-size:20px;font-weight:700;fill:#fff}.value{font-size:24px;font-weight:700;fill:#173740}</style>
+<rect x="1" y="1" width="718" height="1242" rx="12" fill="#f6f9f8" stroke="#d9e3e6"/><text x="28" y="42" class="title" >从真新镇到第一枚徽章</text><text x="28" y="72" class="small" >底图按游戏原始图块、布局和调色板还原；中文为攻略标注</text>
+<rect x="24" y="96" width="672" height="470" rx="12" fill="#fff" stroke="#d9e3e6"/><svg x="60" y="112" width="600" height="432" viewBox="16 16 200 144"><image x="0" y="0" width="240" height="160" style="image-rendering:pixelated" href="data:image/png;base64,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"/></svg><circle cx="216" cy="436" r="12" fill="none" stroke="#fff" stroke-width="3"/><path d="M230 436 L270 437" fill="none" stroke="#fff" stroke-width="3" /><rect x="274" y="418" width="120" height="36" rx="12" fill="#173740" stroke="#173740"/><text x="286" y="444" class="badge" >真新镇</text><circle cx="216" cy="364" r="12" fill="none" stroke="#fff" stroke-width="3"/><path d="M230 364 L270 365" fill="none" stroke="#fff" stroke-width="3" /><rect x="274" y="346" width="120" height="36" rx="12" fill="#173740" stroke="#173740"/><text x="286" y="372" class="badge" >常青市</text><circle cx="216" cy="268" r="12" fill="none" stroke="#fff" stroke-width="3"/><path d="M230 268 L270 269" fill="none" stroke="#fff" stroke-width="3" /><rect x="274" y="250" width="120" height="36" rx="12" fill="#173740" stroke="#173740"/><text x="286" y="276" class="badge" >尼比市</text><text x="28" y="603" class="body" >主线向北走；常青市送包裹时要往返真新镇。</text><rect x="24" y="624" width="672" height="79" rx="12" fill="#fff" stroke="#d9e3e6"/><circle cx="54" cy="660" r="18" fill="#5e4a88"/><text x="54" y="667" class="number" text-anchor="middle">1</text><text x="88" y="655" class="heading" >真新镇</text><text x="88" y="684" class="small" >取伤药 → 选御三家 → 劲敌第一战</text><rect x="24" y="715" width="672" height="79" rx="12" fill="#fff" stroke="#d9e3e6"/><circle cx="54" cy="751" r="18" fill="#5e4a88"/><text x="54" y="758" class="number" text-anchor="middle">2</text><text x="88" y="746" class="heading" >1 号道路 → 常青市</text><text x="88" y="775" class="small" >商店领包裹 → 回研究所交给大木博士</text><rect x="24" y="806" width="672" height="79" rx="12" fill="#fff" stroke="#d9e3e6"/><circle cx="54" cy="842" r="18" fill="#5e4a88"/><text x="54" y="849" class="number" text-anchor="middle">3</text><text x="88" y="837" class="heading" >真新镇 → 常青市</text><text x="88" y="866" class="small" >拿图鉴与精灵球，再拿城镇地图后返回</text><rect x="24" y="897" width="672" height="79" rx="12" fill="#fff" stroke="#d9e3e6"/><circle cx="54" cy="933" r="18" fill="#5e4a88"/><text x="54" y="940" class="number" text-anchor="middle">4</text><text x="88" y="928" class="heading" >2 号道路 → 常青森林</text><text x="88" y="957" class="small" >捕捉队友；森林里有 5% 概率遇到皮卡丘</text><rect x="24" y="988" width="672" height="79" rx="12" fill="#fff" stroke="#d9e3e6"/><circle cx="54" cy="1024" r="18" fill="#5e4a88"/><text x="54" y="1031" class="number" text-anchor="middle">5</text><text x="88" y="1019" class="heading" >2 号道路北段 → 尼比市</text><text x="88" y="1048" class="small" >先到宝可梦中心回复，再挑战小刚</text><rect x="24" y="1096" width="672" height="100" rx="12" fill="#e9f5e8" stroke="#d9e3e6"/><image x="28" y="1108" width="80" height="80" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAMFBMVEXe3t7////e3t7/5r3utIvuc2K9SjEQEBD/xYPepHPFe0pzQQD/9s323rTVvZxqSil7K+ctAAAAAXRSTlMAQObYZgAAAgRJREFUSIntkr9uE0EQxrdbCYot3QCPQMMrhAegiKhT0W6qVS45X5s8gVkXCZ3JGghdpOQBkNCdUkZCzFmprvGNDYlkYV28zN4Z0I2t0CEh5ZNs3e732/m3K8S9/q0euDft5ZABb/eP2suDjy1fvT7o6z/Lh3bf9tqAm7sGmIY/eWztoAVIF0U1oDr1cujO2oAwZp54IXQN+OmuO2vXIEQ0UKlXnW+PtfCplmZXM2A+kO/AP9qGiRq/1yJyDJBOSwdVNs5G1edDLeQHDiCdytJaLgBYcGAm9qraz77Qab8KQKKaAJCj98ABEQP4SZqO008LGAEA8i4kEVcxVBffn5INIyO4JAGv8mq29YT8S36+SXK17X3nBQET8pXnkAKcPNvwiIChgB/9AQdu4fr65iUlyKkDZWd8mFTlzcbzAAB6Ia2O+DABis3NbvDDEIzYYcCihNyYMqRohsCBMIlGSHOnKo4Ek1n6ZV4EIr7kXcQQ4mOJk4JiJMAyqL00x7zMkQYxnWEJfNi3aYZ0Ej2W6VTMTMIriOmGdbcoRHfx9YKbdRNINyA1/brjbLqOWOByW5blusv0CZ7oZayV1xKacC5xJ83nynOrd83cueaCI/7km7hkG738Ol9HGLPclcd9Nzxf18Yv7dhTZ9fF+J3N2tM7AWFsb/XVt5P07vZp4n8B7vWf6icF50X8OGGruQAAAABJRU5ErkJggg=="/><text x="120" y="1132" class="heading" >可选支线：常青市往西 → 22 号道路</text><text x="120" y="1165" class="small" >两版都能抓猴怪；也可能触发可选的劲敌战。</text>
+<text x="28" y="1224" class="note" >原版像素素材 · 中文攻略标注 · 非游戏截图</text>
 </svg>

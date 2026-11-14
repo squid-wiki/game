@@ -1,70 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 520" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" aria-label="火红御三家对比：妙蛙种子、小火龙、杰尼龟">
-  <style>
-    .h{font-size:17px;font-weight:600;fill:#111827;text-anchor:middle}
-    .name{font-size:20px;font-weight:700;text-anchor:middle}
-    .tag{font-size:13px;font-weight:600;fill:#ffffff;text-anchor:middle}
-    .l{font-size:14px;fill:#374151}
-    .s{font-size:13px;fill:#6b7280}
-    .k{font-size:13px;fill:#6b7280;text-anchor:middle}
-    .evo{font-size:14px;fill:#111827;text-anchor:middle}
-  </style>
-  <rect x="1" y="1" width="938" height="518" rx="12" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
-  <text class="h" x="470" y="36">三选一：属性、进化、前三个道馆的难度</text>
-
-  <!-- Bulbasaur -->
-  <g transform="translate(30,60)">
-    <rect width="280" height="430" rx="12" fill="#f0fdf4" stroke="#15803d" stroke-width="1.5"/>
-    <text class="name" x="140" y="38" style="fill:#15803d">妙蛙种子</text>
-    <rect x="100" y="52" width="80" height="24" rx="12" fill="#16a34a"/><text class="tag" x="140" y="69">草 / 毒</text>
-    <text class="evo" x="140" y="108">妙蛙种子 → 妙蛙草 → 妙蛙花</text>
-    <text class="k" x="140" y="128">Lv16 进化 · Lv32 进化</text>
-    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">525</text>
-    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="236" height="8" rx="4" fill="#15803d"/>
-    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#15803d">很轻松</text>
-    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#15803d">轻松</text>
-    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#15803d">轻松</text>
-    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
-    <text class="l" x="20" y="334">前期最省心。</text>
-    <text class="s" x="20" y="358">Lv10 学藤鞭；寄生种子、催眠粉</text>
-    <text class="s" x="20" y="380">让它很耐打。中期怕火、飞行、</text>
-    <text class="s" x="20" y="402">超能力系。</text>
-  </g>
-
-  <!-- Charmander -->
-  <g transform="translate(330,60)">
-    <rect width="280" height="430" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="1.5"/>
-    <text class="name" x="140" y="38" style="fill:#dc2626">小火龙</text>
-    <rect x="110" y="52" width="60" height="24" rx="12" fill="#dc2626"/><text class="tag" x="140" y="69">火</text>
-    <text class="evo" x="140" y="108">小火龙 → 火恐龙 → 喷火龙</text>
-    <text class="k" x="140" y="128">Lv16 进化 · Lv36 进化（火 / 飞行）</text>
-    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">534</text>
-    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="240" height="8" rx="4" fill="#dc2626"/>
-    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#b91c1c">难</text>
-    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#b91c1c">难</text>
-    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#6b7280">普通</text>
-    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
-    <text class="l" x="20" y="334">开局最难，后期最帅。</text>
-    <text class="s" x="20" y="358">前两个道馆都被克，要靠 Lv13 的</text>
-    <text class="s" x="20" y="380">金属爪或队友。适合玩过一遍、</text>
-    <text class="s" x="20" y="402">想要点挑战的人。</text>
-  </g>
-
-  <!-- Squirtle -->
-  <g transform="translate(630,60)">
-    <rect width="280" height="430" rx="12" fill="#eff6ff" stroke="#2563eb" stroke-width="1.5"/>
-    <text class="name" x="140" y="38" style="fill:#2563eb">杰尼龟</text>
-    <rect x="110" y="52" width="60" height="24" rx="12" fill="#2563eb"/><text class="tag" x="140" y="69">水</text>
-    <text class="evo" x="140" y="108">杰尼龟 → 卡咪龟 → 水箭龟</text>
-    <text class="k" x="140" y="128">Lv16 进化 · Lv36 进化</text>
-    <text class="s" x="20" y="166">最终形态种族值合计</text><text class="l" x="260" y="166" text-anchor="end">530</text>
-    <rect x="20" y="176" width="240" height="8" rx="4" fill="#e5e7eb"/><rect x="20" y="176" width="238" height="8" rx="4" fill="#2563eb"/>
-    <text class="s" x="20" y="222">小刚（岩石）</text><text class="l" x="260" y="222" text-anchor="end" style="fill:#15803d">很轻松</text>
-    <text class="s" x="20" y="252">小霞（水）</text><text class="l" x="260" y="252" text-anchor="end" style="fill:#6b7280">普通</text>
-    <text class="s" x="20" y="282">马志士（电）</text><text class="l" x="260" y="282" text-anchor="end" style="fill:#b91c1c">偏难</text>
-    <line x1="20" y1="304" x2="260" y2="304" stroke="#d1d5db"/>
-    <text class="l" x="20" y="334">稳，防御高。</text>
-    <text class="s" x="20" y="358">Lv7 学泡沫，打小刚四倍伤害。</text>
-    <text class="s" x="20" y="380">后期水系招式多、秘传招式冲浪</text>
-    <text class="s" x="20" y="402">也能学，全程都好用。</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 1014" role="img" aria-labelledby="title desc" font-family="'Microsoft YaHei','PingFang SC',sans-serif">
+<title id="title">御三家怎么选</title><desc id="desc">妙蛙种子草毒、小火龙火、杰尼龟水。进化等级和开局招式按火红叶绿标注；道馆相性为攻略建议，不代表保证获胜。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10Z" fill="#6b7f88"/></marker></defs>
+<style>.title{font-size:25px;font-weight:700;fill:#173740}.heading{font-size:22px;font-weight:700;fill:#173740}.body{font-size:20px;fill:#294752}.small{font-size:17px;fill:#526b75}.note{font-size:15px;fill:#526b75}.badge{font-size:17px;font-weight:700;fill:#fff}.number{font-size:20px;font-weight:700;fill:#fff}.value{font-size:24px;font-weight:700;fill:#173740}</style>
+<rect x="1" y="1" width="718" height="1012" rx="12" fill="#f6f9f8" stroke="#d9e3e6"/><text x="28" y="42" class="title" >御三家怎么选</text><text x="28" y="72" class="small" >《火红 / 叶绿》正面精灵 · 普通配色 · 第三世代数据</text>
+<rect x="24" y="96" width="672" height="276" rx="12" fill="#e9f5e8" stroke="#d9e3e6"/><image x="30" y="136" width="128" height="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAMFBMVEXNzaz///+D7sVi1aRilJwpWmL/amLeSkG9KSDNzc0QEBC9/3Oc1Up7rEFac0H/AP+WTawlAAAAAXRSTlMAQObYZgAAAaxJREFUSIntkbFO40AQhl2YJtIhrkh0olxzL8CuJUQF9uwVriKy00SI1wgtEog8ABR3FYggIUvcCzg8gZc8ANhWaoT9DMwGunHyAuQvvJbm25n/n/W8tb63fmzOVwNFNbtZVS+Lyq4Aytds+m7flhJFntlZ/lwvAzatrV6z7KlZBhR2ZvMst/Wc1/w+fd5tgcfT6bR+40D029NoLAY6Jw8vLUAQSylRyMTa57rkJiIhAAhRDqjagR3XAwgoq7JiwK6AwDWApCwJYCZ8mhAooRXox3ZACRFEO38NQOoAltPf3hWBSH5eA0wey7rhwK9IyODh9h8BSdM0cxaiFwVS9W5dBzhp+GMc/aGMqnd4BWA0/uerPhIyDt0aFsCQNfDcjpyU0aBRc6BzOI7V+AwRFuozwLsbL0R70GAg4UBnb3w5Or2g24kGbAG8eG80OgcTK0CNLTN8NSCLqKU2E22Au/RliGRRy9BMaA4HNgaKDBIgoR3QMaCLEEu4p4MDVLjZGKbpQMG9gWFLCJe9g0jXh2G4zz12t13XNO10u1uY8gnewcHXT7/fsue11vrUB8jTuM4ae1UpAAAAAElFTkSuQmCC"/><text x="174" y="132" class="heading" >妙蛙种子</text><rect x="390" y="110" width="70" height="28" rx="5" fill="#609c39"/><text x="425" y="131" class="badge" text-anchor="middle">草</text><rect x="468" y="110" width="70" height="28" rx="5" fill="#a040a0"/><text x="503" y="131" class="badge" text-anchor="middle">毒</text><text x="174" y="172" class="body" >妙蛙种子 → 妙蛙草 → 妙蛙花</text><text x="174" y="202" class="small" >Lv16 进化 / Lv32 进化 · 草 / 毒</text><text x="174" y="236" class="small" >最终形态种族值合计 525</text><path d="M48 261 L672 261" fill="none" stroke="#bacbd0" stroke-width="3" /><text x="48" y="292" class="small" >小刚：有利　小霞：有利　马志士：抗电</text><text x="48" y="324" class="body" >Lv7 寄生种子 · Lv10 藤鞭</text><text x="48" y="352" class="small" >草系招式打小刚的两只宝可梦均为 4 倍。</text><rect x="24" y="388" width="672" height="276" rx="12" fill="#fff0e5" stroke="#d9e3e6"/><image x="30" y="428" width="128" height="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAMFBMVEXNzawQEBC0tLT/////5pz/1WrmrFr2YgD/pAj/xWL/lEHeSkqcQRgYSjFBpHuUzd5bdFh1AAAAAXRSTlMAQObYZgAAAbRJREFUSIntlD1Ow0AQhbezhLfAIqIguUmUzrlBNhKioiBNUtDZZbr4Cg40tGMXcUEke1IYGSL55waIEyBxBMSsnaTILq5Byla25ts3b994zdhp/cHFq7S1biYQnrcBsQ/w1CbgEwAtEmf+MgBocVEAYHXoca8FNoOixUQfIBwU4e/AOwEfRSBdGnND0+STgK8GYK7OQw4QfCcNYMwXSp3LFOggDeB5KrCU9XAHuJ7SgwchBC/lpnlzPLVHF7HqY0SZM4M57kKVsCrEMmI8TpmzcJxjwFwxq0dIVTSAeywQx7idIGIiB+Z6CwXIl7CdTCUQ1MdUPHCAZzEmCYjkMR3VZBUKcU1AJJNwUTFJhBAC0aqTMtFR6ozbQkxlEPIZ1Tpb28MDkD9ogFfbFjcNwP2VBujUQD2t3Nd83bxjjyRAEiU8agSSznAoZoBRVdLY1boJb6ORoKCxpDRTHUBBiaIGdkc5sgDhnRhfEdDFte4C8oSmOekCYnd9q6mTdYwIoGFczvQ3mCP2JjPcT0OngJFl6Q02HgIZYg8x1QNZVsq9BQS6MUgFy5JbL7Ks9T+1507rf64fK4nZrkjA8gMAAAAASUVORK5CYII="/><text x="174" y="424" class="heading" >小火龙</text><rect x="390" y="402" width="70" height="28" rx="5" fill="#cf602d"/><text x="425" y="423" class="badge" text-anchor="middle">火</text><text x="174" y="464" class="body" >小火龙 → 火恐龙 → 喷火龙</text><text x="174" y="494" class="small" >Lv16 进化 / Lv36 进化 · 最终为火 / 飞行</text><text x="174" y="528" class="small" >最终形态种族值合计 534</text><path d="M48 553 L672 553" fill="none" stroke="#bacbd0" stroke-width="3" /><text x="48" y="584" class="small" >小刚：不利　小霞：不利　马志士：中性</text><text x="48" y="616" class="body" >Lv7 火花 · Lv13 金属爪</text><text x="48" y="644" class="small" >打小刚可用金属爪，搭配猴怪更稳。</text><rect x="24" y="680" width="672" height="276" rx="12" fill="#eaf2ff" stroke="#d9e3e6"/><image x="30" y="720" width="128" height="128" style="image-rendering:pixelated" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAMFBMVEXNzaz////VlFK9agBiKQDVzc3/5pz/1WrmrFrVgznNMRi03u6LxdWDlKxBc2IQEBCjG4W1AAAAAXRSTlMAQObYZgAAAZ1JREFUSIntlLFKxEAQhvMCJmhvpW+wgrETVLQWLa2EaH+gWFkcyFb6AoLYHooPkMMH8CZ3haWZ7Gml3CY5EbkDzY2btM7G0ub+Is18mX9mdnYdZ6qpbJrBrF8bfwqhW0c8hWEbuva4G5YA2FNoE4+hJoXuhNG9tgPuPEDnbQ8im4d3aYDna41DG/ANAPSe2oGbPwBHG+DqEq2AC6WiOiA2OaJUrdtqmAAkOaGaW2XjmaPvqNW6zd/nFllgkHkPLXmuwsn2ApfC072MYkBS7ZfFJQb4gk4KRK8XqNUaB3jQK3BLygxRCcF5ECI+CvFlBvEhVmeS/i8iL3CzcXw6KYHhoM2cukuj/eDgFNWuIOA3a3QYHDSIZtcLM1Ju4h/BWbAiL2ZFEWdpwrXi+83lCkjinuKAo7Og4cuNHUwi5AB3dHIsRfa5gwpZQI+bUp5jUpQAU6QLPenLFLBAnOScA0Rj4X9DZP7PuS69GNW4WYAxIH7vTOqczEcRG66AoXkk2AYqi26EfcfDhCuwKpKIyt3S2np3KhmsXwtM9T/6AYZ4GwOhNf7rAAAAAElFTkSuQmCC"/><text x="174" y="716" class="heading" >杰尼龟</text><rect x="390" y="694" width="70" height="28" rx="5" fill="#537fc8"/><text x="425" y="715" class="badge" text-anchor="middle">水</text><text x="174" y="756" class="body" >杰尼龟 → 卡咪龟 → 水箭龟</text><text x="174" y="786" class="small" >Lv16 进化 / Lv36 进化 · 水</text><text x="174" y="820" class="small" >最终形态种族值合计 530</text><path d="M48 845 L672 845" fill="none" stroke="#bacbd0" stroke-width="3" /><text x="48" y="876" class="small" >小刚：有利　小霞：互相抗水　马志士：不利</text><text x="48" y="908" class="body" >Lv7 泡沫 · Lv13 水枪</text><text x="48" y="936" class="small" >水系招式打小刚的两只宝可梦均为 4 倍。</text>
+<text x="28" y="994" class="note" >原版像素素材 · 中文攻略标注 · 非游戏截图</text>
 </svg>
