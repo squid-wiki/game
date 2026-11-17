@@ -8,6 +8,8 @@
 - `firered/starters.svg`、`type-triangle.svg`、`route-pallet-pewter.svg`、`brock-plan.svg` 和 `speed-example.svg`：原版素材以内嵌 PNG 方式放入 SVG，离线及 HTML `<img>` 加载均不依赖外部资源。使用 `image-rendering: pixelated` 保持像素边缘。
 - `four-factors.svg`、`physical-special.svg`、`timeline.svg`：机制或历史教学示意图，不是游戏 UI。
 
+- `firered/guides/*.jpg`：本站作者为同系列图文攻略制作的配图（1242 × 1660 排版，缩放到 1080 宽 JPEG）。地图、洞窟、流程图都是自绘示意图，不描官方地图，也不使用他人攻略截图；图中的宝可梦、人物、道具像素图取自游戏原版素材，只做缩放和裁切，图上标「图源：任天堂 / The Pokémon Company」。逐项素材来源记在作者本地的图文工作区，不进本仓库。
+
 下载地址、固定版本及 SHA-256 记录在 `firered/assets-manifest.json`。素材用于非官方攻略说明，其权利仍归 Nintendo / Creatures / GAME FREAK 等原权利人；不随本站代码的 MIT 或文章的 CC 许可重新授权。
 
 ## 更新与复现

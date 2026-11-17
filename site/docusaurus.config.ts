@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Squid Wiki · 游戏',
-  tagline: '游戏攻略与工具 · 宝可梦火红',
+  tagline: '游戏攻略与工具 · 宝可梦火红叶绿',
   favicon: 'img/favicon.svg',
 
   url: 'https://game.squid.wiki',
